@@ -1,0 +1,4 @@
+.venv
+.vscode
+hello.py
+standardplot.py
